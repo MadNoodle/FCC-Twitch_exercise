@@ -1,0 +1,99 @@
+
+
+* {
+  background: #492e7c;
+  margin: 0;
+	border: 0;
+	padding: 0;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+html {
+  background: #492e7c;
+  font-family: "Open Sans", sans-serif;
+  font-size: 100%;
+  color: #636568;
+  padding: 20px;
+}
+body {
+  background: #492e7c;}
+.container-result{
+  background: #492e7c;
+
+}
+
+p {
+  font-size: .8125em;
+  line-height: 1.5em;
+}
+
+a {
+  color:#fff;
+  text-decoration: none;
+}
+
+#card {
+  background: #492e7c;
+}
+.item{
+  font-family: "Open Sans", sans-serif;
+  background: #fff;
+  border-radius: 2px;
+  box-shadow: 0 3px 4px rgba(0, 0, 0, 0.1);
+  max-width: 300px;
+  height: 380px;
+  margin:5px;
+  padding:5px;
+
+
+}
+.article-body{
+  background:#fff;
+  margin:5px;
+}
+.article-image {
+  background:#fff;
+  background-position: center;
+  border-radius: 2px 2px 0 0;
+  height: 220px;
+  max-width: 100%;
+}
+.article-game{
+  background:#fff;
+}
+.article-tags{
+  background:#fff;
+}
+.article-heading{
+  background:#fff;
+}
+
+.article-status {
+  background: #fff;
+  padding:0;
+  margin:0;
+  text-align: right;
+  color:#fff;
+  position: absolute;
+  right: 40px;
+    bottom: 20px;
+
+}
+.article-status a{
+  color:#000;
+  border-radius: 2px;
+  padding:0;
+  margin:0
+  font-size: 0.6875rem;
+  padding: 3px 10px;
+  transition: background 0.3s ease;
+  text-decoration: none;
+}
+
+
+.btn{
+  color:#fff;
+  border:2px solid #fff;
+  margin:10px auto;
+}
